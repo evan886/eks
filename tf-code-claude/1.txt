@@ -1,0 +1,8 @@
+Apply complete! Resources: 22 added, 0 changed, 0 destroyed.
+
+Outputs:
+
+cluster_endpoint = "https://E0046BC5FEA6BF583DAB4007FC2FBFFC.gr7.us-west-2.eks.amazonaws.com"
+cluster_name = "learning-eks"
+configure_kubectl = "aws eks update-kubeconfig --region us-west-2 --name learning-eks"
+
